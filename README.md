@@ -14,9 +14,9 @@
 
 - You can buy me a Coffee [https://www.buymeacoffee.com/rachitavasthi](https://www.buymeacoffee.com/rachitavasthi)
 
-- 💬 Ask me about **Html,Css,JS,React and MongoDb**
+- 💬 Ask me about **Html, CSS,JS, React and MongoDB**
 
-- 📫 How to reach me **romanrachit03@gmail.com**
+- 📫 How to reach me **rachitavasthi.it25@gmail.com**
 
 - ⚡ Fun fact **Sometimes coding feels me like a Hacker**
 
