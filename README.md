@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- My recent project is [RecycloTronics](https://github.com/Gacky1/RecycloTronics)
+- My recent project is [MyPortfolio](https://rachitavasthi.tech/)
 
 - 👨‍💻 All of my projects are available at [https://rachitavasthi.site/](https://rachitavasthi.site/)
 
