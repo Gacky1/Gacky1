@@ -1,4 +1,4 @@
-![logo](https://github.com/Gacky1/Gacky1/blob/main/Programming.png)
+/*![logo](https://github.com/Gacky1/Gacky1/blob/main/Programming.png)*/
 <h1 align="center">Hi 👋, I'm Rachit Avasthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
