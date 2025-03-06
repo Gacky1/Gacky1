@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- My recent project is [MyPortfolio](https://rachitavasthi.tech/)
+- My recent project is [MyPortfolio](https://rachitavasthi.com/)
 
 - 👨‍💻 All of my projects are available at [https://rachitavasthi.tech/](https://rachitavasthi.tech/)
 
