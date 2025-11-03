@@ -10,7 +10,7 @@
 
 - My recent project is [MyPortfolio](https://rachitavasthi.com/)
 
-- 👨‍💻 All of my projects are available at [https://rachitavasthi.tech/](https://rachitavasthi.tech/)
+- 👨‍💻 All of my projects are available at [https://rachitavasthi.com/](https://rachitavasthi.com/)
 
 - You can buy me a Coffee [https://www.buymeacoffee.com/rachitavasthi](https://www.buymeacoffee.com/rachitavasthi)
 
